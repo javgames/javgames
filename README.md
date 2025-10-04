@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @javgames
 - 👀 I’m interested in game developing
 - 🌱 I’m currently learning Godot
-- 💞️ I’m looking to collaborate on a game
+- 👊 I’m looking to collaborate on a game
 - 📫 How to reach me: you can reach me on my linktree. https://linktr.ee/javartz
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I draw with my left hand but have no issue using the mouse and keyboard with my right.
